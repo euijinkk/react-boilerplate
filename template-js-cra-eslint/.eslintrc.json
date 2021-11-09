@@ -1,5 +1,6 @@
 {
   "plugins": [
+    "stylelint-prettier",
     "react",
     "react-hooks",
     "import",
@@ -12,7 +13,10 @@
     "plugin:react/recommended",
     "plugin:jsx-a11y/recommended",
     "prettier/prettier",
-    "plugin:import/recommended"
+    "plugin:import/recommended",
+    "stylelint-config-prettier",
+    "stylelint-config-recommended",
+    "stylelint-prettier/recommended"
   ],
   "rules": {
     "react-hooks/rules-of-hooks": "error",

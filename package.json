@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "stylelint-processor-styled-components": "^1.10.0"
+  }
+}
